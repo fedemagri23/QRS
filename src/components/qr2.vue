@@ -4,7 +4,7 @@
 
         </v-btn>
         <v-container class="bg-black  d-flex flex-column align-center justify-center w-100 h-100 pa-0">
-            <img src="/src/assets/imgs/qr3.jpeg" class="w-100 h-100 ma-0" style="object-fit: cover;" />
+            <img src="/src/assets/imgs/qr2.jpeg" class="w-100 h-100 ma-0" style="object-fit: cover;" />
         </v-container>
         <v-container class="bg-black  d-flex flex-column align-center justify-center w-100 h-100 pa-0">
             <img src="/src/assets/imgs/under.jpg" class="w-100 h-100 ma-0" style="object-fit: cover;" />
