@@ -1,8 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <!--<Qr1></Qr1>-->
-      <Tickets></Tickets>
+      <router-view />
     </v-main>
 
 
