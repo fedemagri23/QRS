@@ -1,13 +1,15 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld />
+      <Qr1></Qr1>
     </v-main>
 
-    <AppFooter />
+
   </v-app>
 </template>
 
 <script setup>
+  import Qr1 from './components/qr1.vue';
+
   //
 </script>
