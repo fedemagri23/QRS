@@ -1,8 +1,8 @@
 <template>
     <v-container class="bg-black d-flex flex-column align-center justify-center w-100 h-100 pa-0" style="">
-        <v-btn  @click="goToRoute({ name: 'Tickets' })" style="height: 82px; width: 82px; position: absolute; top: 3vh; left: 5vw;">
+        <v-container  @click="goToRoute({ name: 'Tickets' })" style="height: 82px; width: 82px; position: absolute; top: 3vh; left: 5vw;">
 
-        </v-btn>
+        </v-container>
         <v-container class="bg-black  d-flex flex-column align-center justify-center w-100 h-100 pa-0">
             <img src="/src/assets/imgs/qr3.jpeg" class="w-100 h-100 ma-0" style="object-fit: cover;" />
         </v-container>
